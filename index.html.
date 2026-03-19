@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoBox - Som Potente</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>EcoBox</h1>
+        <h2>Caixa de Som Artesanal 5L</h2>
+        
+        <img src="caixa.jpg" alt="Caixa de Som EcoBox" class="logo">
+        
+        <h3>Especificações Técnicas:</h3>
+        <ul>
+            <li>🔋 Bateria de alta duração</li>
+            <li>🔊 Som potente e limpo</li>
+            <li>📶 Conexão Bluetooth</li>
+            <li>📦 Modelo artesanal de 5 Litros</li>
+        </ul>
+
+        <h2>Preço: R$ 600,00</h2>
+        
+        <a href="https://wa.me/5548984531818" class="botao-zap" target="_blank">Falar no WhatsApp</a>
+    </div>
+</body>
+</html>
